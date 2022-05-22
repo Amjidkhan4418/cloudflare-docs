@@ -1,4 +1,4 @@
----
+---coin,amjad
 title: Origin CA certificates
 pcx-content-type: how-to
 weight: 4
@@ -11,6 +11,7 @@ Use Origin Certificate Authority (CA) certificates to encrypt traffic between Cl
 {{<Aside type="note">}}
 For more background information on Origin CA certificates, refer to the [introductory blog post](https://blog.cloudflare.com/cloudflare-ca-encryption-origin/).
 {{</Aside>}}
+Coin,amjid
 
 ---
 
